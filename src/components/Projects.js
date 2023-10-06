@@ -30,7 +30,7 @@ function Projects() {
           imgUrl: projImg5,
         },
         {
-          title: "Currency Valute",
+          title: "Online shop",
           description: "Design & Development",
           imgUrl: projImg6,
         },
